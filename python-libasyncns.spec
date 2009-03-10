@@ -2,7 +2,7 @@
 Summary:	A python binding for the libasyncns asynchronous name service query library
 Name:		python-%{module}
 Version:	0.7.1
-Release:	0.1
+Release:	1
 License:	LGPL
 Group:		Development/Languages/Python
 Source0:	http://launchpadlibrarian.net/21625760/libasyncns-python-%{version}.tar.bz2
